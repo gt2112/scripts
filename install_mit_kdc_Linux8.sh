@@ -6,7 +6,7 @@
 #Set Variables
 domain=MIT.SUPPORTLAB.COM
 pass=Hadoop12345!
-hostname=node1
+hostname=`hostname -f`
 
 
 # Install Kerberos packages
