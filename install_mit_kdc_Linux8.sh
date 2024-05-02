@@ -1,4 +1,4 @@
-#Install mit KDC and setup a root/admin@DMAIN user
+#Install MIT KDC on top of Linux 8, and setup a root/admin@DMAIN user
 
 #!/bin/bash
 
