@@ -1,5 +1,5 @@
 #!/bin/bash          
-# Install Open LDAP v2.6.7 on RedHat 8. Adding 500 users distributed in 5 ggroups
+# Install Open LDAP v2.6.7 on RedHat 8. Adding 500 users distributed in 5 groups
 # Admin credentials
 # principal: cn=admin,dc=ldap,dc=supportlab,dc=com
 # password: Hadoop12345!

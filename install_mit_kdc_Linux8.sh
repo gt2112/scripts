@@ -67,6 +67,8 @@ kdb5_util create -s -P $pass
 
 # Create admin principal
 kadmin.local -q "addprinc -pw $pass root/admin"
+kadmin.local -q "addprinc -pw $pass admin/admin"
+
 
 # Start and enable krb5kdc and kadmin services
 systemctl start krb5kdc kadmin

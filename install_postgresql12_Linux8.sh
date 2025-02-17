@@ -1,4 +1,4 @@
-# Install and configure Postgres data bse on Linux 7 for Cloudera streams and NiFi apps
+# Install and configure Postgres data bse on Linux 8 for Cloudera and NiFi apps
 
 # 1. Install required packages
 wget --no-check-certificate https://download.postgresql.org/pub/repos/yum/reporpms/EL-8-x86_64/pgdg-redhat-repo-latest.noarch.rpm
